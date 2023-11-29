@@ -11,5 +11,17 @@ OpenCV is an open-source computer vision and machine learning software library. 
 - **Usage**: It can be used with various programming languages such as Python, C++, and Java. The library provides a range of functionalities for image and video processing, including feature detection, object recognition, and machine learning.
 
 ### How to Use OpenCV
-To use OpenCV in Python, you typically start by installing it: pip install opencv-python
+To use OpenCV in Python, you typically start by installing it: 
+```bash
+pip install opencv-python
+```
 Then, you can import the library and start using its functions in your code.
+
+## 3. Functionalities of OpenCV
+OpenCV offers a wide range of functionalities, including:
+
+- Image and Video Capture
+- Image Processing (Blurring, Sharpening, etc.)
+- Object Detection and Recognition
+- Facial Recognition
+- Machine Learning Support
