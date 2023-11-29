@@ -64,5 +64,5 @@ My experience with OpenCV has been overwhelmingly positive. I would recommend it
 Absolutely. The continuous development and improvement of OpenCV, coupled with its widespread adoption, make it a valuable tool for anyone involved in image and video analysis. 
 
 ## References 
-[1] https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
-[2] https://learning.oreilly.com/library/view/learning-opencv/9780596516130/ch01.html#what_is_opencv
+- [1] https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+- [2] https://learning.oreilly.com/library/view/learning-opencv/9780596516130/ch01.html#what_is_opencv
