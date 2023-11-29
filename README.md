@@ -12,7 +12,7 @@ To run the program, follow these steps:
 - Download the `haarcascade_hand.xml` file for hand detection. Ensure it's in the same directory as the script.
 - Run the script: `python gesture_recognition.py`
 - Press 'q' to exit the program.
-Note: If there is any problems running the program, feel free to email iyoung@unb.ca 
+- Note: If there is any problems running the program, feel free to email iyoung@unb.ca 
 
 ## 3. Purpose of the Program
 This program uses the webcam to capture frames and applies computer vision techniques to detect and recognize hand gestures in real-time. It draws rectangles around detected hands and annotates the image based on the hand's characteristics, such as an open fist.
